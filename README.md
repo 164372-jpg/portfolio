@@ -1,3 +1,3 @@
 # portfolio by kunlapassron
 
-[ปก](ปก.md)
+[ปกหน้า](ปกหน้า.md)
